@@ -10,7 +10,7 @@ from billing import billing_module
 from users import validate_login
  
 root = tk.Tk()
-root.title("Hospital management System")
+root.title("Hospital Management System")
 root.geometry("1100x650")
  
 # ---------------- Login ----------------
