@@ -27,7 +27,7 @@ def appointment_module(parent):
         parent,
         text="APPOINTMENT MANAGEMENTS",
         font=("Arial",20,"bold"),
-        bg="#1565C0",
+        bg="#92C5FF",
         fg="white",
         pady=10
     )
