@@ -25,7 +25,7 @@ def appointment_module(parent):
 
     title = tk.Label(
         parent,
-        text="APPOINTMENT AND MANAGEMENT",
+        text="APPOINTMENT MANAGEMENT",
         font=("Arial",20,"bold"),
         bg="#1565C0",
         fg="white",
