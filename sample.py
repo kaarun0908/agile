@@ -1,0 +1,11 @@
+
+print("Python Test Program")
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+print("Hello,", name)
+print("Your age is", age)
+print("Next year you will be", age + 1)
+print("Welcome to Python!")
+print("Have a great day!")
+print("Python is working correctly.")
+print("Program completed.")
